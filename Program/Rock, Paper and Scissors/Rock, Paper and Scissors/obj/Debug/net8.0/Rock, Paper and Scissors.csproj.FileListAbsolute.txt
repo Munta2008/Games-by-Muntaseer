@@ -1,0 +1,14 @@
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\bin\Debug\net8.0\Rock, Paper and Scissors.exe
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\bin\Debug\net8.0\Rock, Paper and Scissors.deps.json
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\bin\Debug\net8.0\Rock, Paper and Scissors.runtimeconfig.json
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\bin\Debug\net8.0\Rock, Paper and Scissors.dll
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\bin\Debug\net8.0\Rock, Paper and Scissors.pdb
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.AssemblyInfoInputs.cache
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.AssemblyInfo.cs
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.csproj.CoreCompileInputs.cache
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.dll
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\refint\Rock, Paper and Scissors.dll
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.pdb
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\Rock, Paper and Scissors.genruntimeconfig.cache
+D:\1. Personal life\Programming\Rock, Paper and Scissors\Rock, Paper and Scissors\obj\Debug\net8.0\ref\Rock, Paper and Scissors.dll
